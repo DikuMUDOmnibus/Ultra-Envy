@@ -1,0 +1,13 @@
+UNNOFICIAL Zen's EnvyMud patch Release 0.87j! (Ultra Envy2.2)
+Wednesday, 10th December 1997
+
+Zen             vasc@camoes.rnl.ist.utl.pt
+
+
+
+=== The area directory
+
+This file gives a brief description of the files in the area directory.
+
+AREA.LST	- Contains a list of all areas to be loaded into the server.
+		The areas are loaded in top-down order.
